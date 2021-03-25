@@ -1,0 +1,6 @@
+# Import the "arcade" library
+import arcade
+
+def print_car()
+  # Draw car
+    arcade.draw_lrtb_rectangle_filled(
