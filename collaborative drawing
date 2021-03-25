@@ -3,4 +3,4 @@ import arcade
 
 def print_car()
   # Draw car
-    arcade.draw_lrtb_rectangle_filled(
+    arcade.draw_lrtb_rectangle_filled(200, 400, 
