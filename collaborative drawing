@@ -47,7 +47,7 @@ def print_city_background():
 # Set the window title to "Drawing Example"
 # Set the dimensions (width and height)
 arcade.open_window(900, 600, "Collaborative Drawing")
-# Set the background color
+# Set the background color 
 arcade.set_background_color(arcade.csscolor.SKY_BLUE)
 
 # Get ready to draw
@@ -64,4 +64,4 @@ arcade.finish_render()
 
 # Keep the window up until someone closes it.
 arcade.run()
-HI CAN YOU SEE THIS
+
