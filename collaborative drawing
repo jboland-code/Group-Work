@@ -9,7 +9,8 @@ def print_car():
 def print_snowman():
 # Draw snowman
 arcade.draw_circle_filled(320, 320, 15,15, arcade.color.WHITE) 
-arcade.draw_circle_filled(320, 320, 10, 10, arcade.color.WHITE
+arcade.draw_circle_filled(320, 320, 10, 10, arcade.color.WHITE)
+arcade.draw_circle_filled(320, 320, 5, 5, arcade.color.WHITE)
 def print_city_background():
     # Draw city background
     arcade.draw_circle_filled(800, 530, 60, arcade.color.AUREOLIN)
